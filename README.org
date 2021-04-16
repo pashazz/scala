@@ -6,10 +6,12 @@ https://www.coursera.org/learn/progfun1/
 
 * Directory structure
 
-| Dir           | description         |
-|---------------+---------------------|
-| ~helloworld~  | My scala worksheets |
-| ~recursive~   | Course 1 HW 1 Recursion |
+| Dir          | description                   |
+|--------------+-------------------------------|
+| [[./helloworld][~helloworld~]] | My scala worksheets           |
+| [[./recursive][~recursive~]]  | Course 1 HW 1 Recursion       |
+| [[./funsets][~funsets~]]    | Course 1 HW 2 Functional Sets |
+
 
 * Submitting assignments
 #+begin_src bash
